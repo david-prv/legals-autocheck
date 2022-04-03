@@ -1,5 +1,12 @@
 class LAC {
 
+    /**
+     * Constructor
+     *
+     * @param {Array} keywords
+     * @param {Boolean} notifications
+     * @param {Boolean} debug
+     */
     constructor(keywords, notifications = false, debug = false) {
         this._keywords = keywords;
         this._notifications = notifications;
@@ -9,6 +16,9 @@ class LAC {
         this._potentialAGB = [];
     }
 
+    /*
+     * Run LAC main function
+     */
     run() {
         // loop through labels to find agb checkbox
         for(let i = 0; i < this._labels.length; i++) {
