@@ -2,7 +2,8 @@
   <img src="https://addons-media.operacdn.com/media/extensions/65/115665/4.13.6138-rev1/icons/icon_64x64_61be8d1fe87710ac0c320d28a05f0cbc.png"></img>
 </p>
 
-# LAC: Legals-Autocheck, a TamperMoneky-Script
+# LAC: Legals-Autocheck
+*A TamperMonkey Script*
 
 ## Introduction
 Welcome to this repository. This very small project is based on what my father once told me:  
