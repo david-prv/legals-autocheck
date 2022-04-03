@@ -8,5 +8,7 @@ const KEYWORD_LIST = [
   "geschaeftsbedingungen",
   "terms",
   "terms of service",
-  "privacy"
+  "privacy",
+  "conditions",
+  "vereinbarungen"
 ];
