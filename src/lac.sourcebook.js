@@ -6,8 +6,10 @@ const KEYWORD_LIST = [
   "geschäftsbedingungen",
   "tos",
   "geschaeftsbedingungen",
+  "nutzungsbedingungen",
   "terms",
   "terms of service",
+  "terms of use",
   "privacy",
   "conditions",
   "vereinbarungen"
